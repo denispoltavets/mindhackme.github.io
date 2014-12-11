@@ -1,0 +1,4 @@
+mindhackme.github.io
+====================
+
+Blog
